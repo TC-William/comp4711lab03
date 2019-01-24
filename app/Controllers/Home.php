@@ -14,6 +14,10 @@ class Home extends Controller
         return view('jeff_message');
     }
 
+    public function mate2() 
+    {
+    	return view('jin_message');
+    }
 	//--------------------------------------------------------------------
 
 }
