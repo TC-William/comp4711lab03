@@ -83,6 +83,10 @@
 
 			<h1>Welcome to CodeIgniter</h1>
 
+			    <a href="jeff_message.php">Mate 1 - Jeff</a>
+                <a href="jin_message.php">Mate 2 - Jin</a>
+                <a href="keith_message.php">Mate 3 - Keith</a>
+
 			<p class="version">version <?= CodeIgniter\CodeIgniter::CI_VERSION ?></p>
 
 			<div class="logo">
