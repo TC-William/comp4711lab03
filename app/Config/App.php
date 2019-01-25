@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'tc.local:4711';
+	public $baseURL = 'http://tc.local:4711';
 
 	/*
 	|--------------------------------------------------------------------------
