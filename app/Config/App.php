@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'TrainerConnect';
+	public $baseURL = 'tc.local:4711';
 
 	/*
 	|--------------------------------------------------------------------------
